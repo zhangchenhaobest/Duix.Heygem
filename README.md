@@ -1,3 +1,29 @@
+# Duix.Heygem
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+真正开源的数字人工具包，支持离线视频生成与数字人克隆。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # 🚀🚀🚀 Duix Avatar — Truly open-source AI avatar toolkit for offline video generation and digital human cloning
 
 🔗 **Office website:** [www.duix.com](http://www.duix.com)
